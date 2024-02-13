@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kmasalam
-- 👀 I’m interested in Laravel
-- 🌱 I’m currently learning laravel
-- 💞️ I’m looking to collaborate on Gutenberg
+- 👀 I’m a node js developer
+- 🌱 I’m currently working with Next JS,React,Express,Nest
 - 📫 How to reach me mccyber007@gmail.com
 
 <!---
