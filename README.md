@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohammad%20Abdus%20Salam&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%207%2B%20Years%20of%20Experience&descAlignY=55&descSize=16" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+scalable+web+applications+%F0%9F%9A%80;React+%7C+Next.js+%7C+NestJS+%7C+Express;MongoDB+%7C+PostgreSQL+%7C+MySQL;Docker+%7C+AWS+%7C+Digital+Ocean)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=140&lines=Building+scalable+web+applications+%F0%9F%9A%80;React+%7C+Next.js+%7C+NestJS+%7C+Express;MongoDB+%7C+PostgreSQL+%7C+MySQL;Docker+%7C+AWS+%7C+Digital+Ocean)](https://git.io/typing-svg)
 
 <br/>
 
