@@ -30,6 +30,7 @@ const salam = {
   databases:   ["MongoDB", "PostgreSQL", "MySQL"],
   devops:      ["Docker", "AWS", "Digital Ocean"],
 
+  currentWork:  "Thumbtack — Local Services Marketplace",
   currentFocus: "Building high-performance, scalable web architectures",
   funFact:      "I turn coffee ☕ into clean, production-ready code 🚀",
 };
@@ -127,6 +128,37 @@ const salam = {
     <td align="center" width="33%">
       <img src="https://img.shields.io/badge/-DevOps%20Pipelines-FF9800?style=for-the-badge&logo=docker&logoColor=white"/>
       <br/><sub>CI/CD, Docker containerization & server management</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 💼 Featured Projects
+
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">AamarTaka</h3>
+      <p align="center">
+        <a href="https://aamartaka.com/" target="_blank">
+          <img src="https://img.shields.io/badge/Live-aamartaka.com-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+        </a>
+      </p>
+      <p align="center">Bangladesh's first algorithm-based financial product marketplace. Helps users compare and apply for loans, credit cards, and insurance from all major Bangladeshi banks with instant eligibility assessment.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Member Lounge</h3>
+      <p align="center">
+        <a href="https://association.memberlounge.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Live-memberlounge.app-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+        </a>
+        &nbsp;
+        <a href="https://skateontario.memberlounge.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Demo-Skate%20Ontario-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+        </a>
+      </p>
+      <p align="center">White-label SaaS membership management platform for associations. Powers portals like Skate Ontario — enabling member access control, content management, and communications at scale.</p>
     </td>
   </tr>
 </table>
